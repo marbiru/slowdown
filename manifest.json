@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Slowdown",
+  "description": "This extension slows down specificed websites, to help you reduce your pleasure from addictive websites without blocking them completely",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
