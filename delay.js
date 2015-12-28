@@ -1,1 +1,1 @@
-window.setTimeout(function(){alert("hi");}, 3000);
+window.setTimeout(function(){alert("slowdown: making addictive pages more annoying to use");}, 3000);
