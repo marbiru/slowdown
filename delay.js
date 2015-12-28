@@ -1,1 +1,1 @@
-window.setTimeout(function();, 3000);
+window.setTimeout(function(){alert("hi");}, 1000);
