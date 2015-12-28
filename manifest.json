@@ -24,8 +24,8 @@
   "content_scripts": [
     {
       "matches": ["*://*.facebook.com/*"],
-      "js": ["delay.js"],
-      "run_at": "document_start"
+      "run_at": "document_start",
+      "js": ["delay.js"]
     }
   ]
 }
